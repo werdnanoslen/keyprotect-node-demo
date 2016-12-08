@@ -1,0 +1,11 @@
+{
+  "name": "keyprotect",
+  "version": "1.0.0",
+  "description": "Proof of concept for Key Protect using Request",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
